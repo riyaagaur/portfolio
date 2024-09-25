@@ -1,0 +1,138 @@
+RiyaG - Personal Portfolio
+
+# sidebar
+
+alt = Riya Gaur
+Riya Gaur
+Machine Learning Engineer
+
+Show Contacts
+
+Email
+riyagaur1299@gmail.com
+
+Birthday
+Decemeber 11, 1999
+
+Location
+Philadelphia, Pennsylvania, USA
+
+# navbar
+
+About
+Resume
+Projects
+Contact
+
+# about
+
+About me
+
+I'm a passionate Machine Learning Engineer with a strong background in data science, artificial intelligence, and computer vision. My goal is to build innovative AI-driven solutions that not only address complex challenges
+
+but also create a positive impact. I enjoy diving into large datasets, uncovering insights, and turning them into actionable strategies for businesses.    
+
+
+## service
+
+What i'm doing
+
+alt = icon
+Data Science
+Transforming Data into Insightful and Actionable Solutions.
+
+alt = icon
+Cloud Technology
+Empowering Innovation Through Scalable Cloud Technology.
+
+alt = mobile icon
+AI & Computer Vision
+Uncovering Hidden Patterns in Visual Data.
+
+alt = camera icon
+Photography
+Capturing moments that tell stories through the lens.
+
+
+
+# resume
+
+Resume
+
+Education
+
+Drexel University
+2022 — 2024
+Collaborative Research: Participated in interdisciplinary AI and ML research projects, gaining practical experience.
+
+Jain University
+2018 — 2022
+Capstone Project: Directed an image upscaling project using advanced CV techniques, enhancing resolution & pixel generation.
+
+Experience
+
+Machine Learning Engineer
+June 2023 - Dec 2023
+
+Artificial Intelligence Engineer
+2021 — 2022
+
+Junior Data Scientist
+2020 — 2021
+
+My skills
+
+Programming Languages
+75%
+Frameworks & Tools
+85%
+Cloud
+80%
+
+
+
+# Projects
+
+Projects
+
+MY WORK
+
+alt = Bird Species Recognition
+Computer Vision
+
+alt = Satellite Data Analysis
+AI/ ML
+
+alt = AI Surgical Robotics
+Computer Vision
+
+alt = Cloud Security & Governance
+Cloud Computing
+
+alt = Iris flower classification using PyTorch
+Deep Learning
+
+alt = AlexNet transfer learning on MNIST
+Deep Learning, Computer Vision
+
+alt = Super Resolution
+Image Processing
+
+alt = Jet Engine Anomaly Detection
+ML / Aerospace Engineering
+
+alt = Stock Market Prediction
+Time Series Analysis / ML - DL
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
